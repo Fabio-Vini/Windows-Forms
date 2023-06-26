@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\bin\Debug\Array_ordem_inversa.exe.config
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\bin\Debug\Array_ordem_inversa.exe
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\bin\Debug\Array_ordem_inversa.pdb
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.Form1.resources
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.Properties.Resources.resources
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.exe
+C:\Users\fabin\source\repos\Array_ordem_inversa\Array_ordem_inversa\obj\Debug\Array_ordem_inversa.pdb
