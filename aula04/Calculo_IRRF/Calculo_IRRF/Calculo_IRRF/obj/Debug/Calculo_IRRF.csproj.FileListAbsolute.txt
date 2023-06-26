@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\bin\Debug\Calculo_IRRF.exe.config
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\bin\Debug\Calculo_IRRF.exe
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\bin\Debug\Calculo_IRRF.pdb
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.Form1.resources
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.Properties.Resources.resources
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.exe
+C:\Users\fabin\source\repos\Calculo_IRRF\Calculo_IRRF\obj\Debug\Calculo_IRRF.pdb
