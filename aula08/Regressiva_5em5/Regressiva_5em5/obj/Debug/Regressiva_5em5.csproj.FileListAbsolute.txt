@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\bin\Debug\Regressiva_5em5.exe.config
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\bin\Debug\Regressiva_5em5.exe
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\bin\Debug\Regressiva_5em5.pdb
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.Form1.resources
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.Properties.Resources.resources
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.exe
+C:\Users\fabin\source\repos\Regressiva_5em5\Regressiva_5em5\obj\Debug\Regressiva_5em5.pdb

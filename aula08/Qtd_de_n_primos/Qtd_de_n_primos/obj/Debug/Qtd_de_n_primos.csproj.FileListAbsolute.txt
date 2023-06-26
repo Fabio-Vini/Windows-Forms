@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\bin\Debug\Qtd_de_n_primos.exe.config
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\bin\Debug\Qtd_de_n_primos.exe
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\bin\Debug\Qtd_de_n_primos.pdb
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.Form1.resources
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.Properties.Resources.resources
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.exe
+C:\Users\fabin\source\repos\Qtd_de_n_primos\Qtd_de_n_primos\obj\Debug\Qtd_de_n_primos.pdb
