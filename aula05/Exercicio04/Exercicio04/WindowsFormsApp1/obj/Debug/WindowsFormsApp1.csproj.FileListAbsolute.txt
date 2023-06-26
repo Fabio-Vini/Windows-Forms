@@ -1,0 +1,32 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\SegundoSemestre\FederalEngenharia\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\raque\Downloads\Aula05-ef3d7fd186fa4ef08c71577524e0f780\Aula05\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fabin\OneDrive\Documentos\ECA\Programação\aula05\Exercicio04\Exercicio04\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
