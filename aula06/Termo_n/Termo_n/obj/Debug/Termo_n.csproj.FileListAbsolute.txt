@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Termo_n\Termo_n\bin\Debug\Termo_n.exe.config
+C:\Users\fabin\source\repos\Termo_n\Termo_n\bin\Debug\Termo_n.exe
+C:\Users\fabin\source\repos\Termo_n\Termo_n\bin\Debug\Termo_n.pdb
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.Form1.resources
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.Properties.Resources.resources
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.exe
+C:\Users\fabin\source\repos\Termo_n\Termo_n\obj\Debug\Termo_n.pdb

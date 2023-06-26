@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\fabin\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\fabin\source\repos\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.Form1.resources
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\fabin\source\repos\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
