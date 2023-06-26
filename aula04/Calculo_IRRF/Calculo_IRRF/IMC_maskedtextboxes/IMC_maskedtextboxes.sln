@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC_maskedtextboxes", "IMC_maskedtextboxes\IMC_maskedtextboxes.csproj", "{B7FAE27A-5BBA-4B3E-9087-10C94C3B7429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FAE27A-5BBA-4B3E-9087-10C94C3B7429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FAE27A-5BBA-4B3E-9087-10C94C3B7429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FAE27A-5BBA-4B3E-9087-10C94C3B7429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FAE27A-5BBA-4B3E-9087-10C94C3B7429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61CB7685-1A6C-424E-B8EE-87F3DE1768F2}
+	EndGlobalSection
+EndGlobal

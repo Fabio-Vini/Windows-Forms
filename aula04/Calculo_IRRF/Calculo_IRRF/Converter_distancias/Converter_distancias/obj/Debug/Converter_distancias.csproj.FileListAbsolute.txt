@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\bin\Debug\Converter_distancias.exe.config
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\bin\Debug\Converter_distancias.exe
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\bin\Debug\Converter_distancias.pdb
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\obj\Debug\Converter_distancias.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\obj\Debug\Converter_distancias.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\obj\Debug\Converter_distancias.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\obj\Debug\Converter_distancias.exe
+C:\Users\fabin\source\repos\Converter_distancias\Converter_distancias\obj\Debug\Converter_distancias.pdb
